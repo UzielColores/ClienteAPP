@@ -1,0 +1,10 @@
+C:\Users\color\source\repos\UzielColores\Cliente App\Cliente App\bin\Debug\Cliente App.exe.config
+C:\Users\color\source\repos\UzielColores\Cliente App\Cliente App\bin\Debug\Cliente App.exe
+C:\Users\color\source\repos\UzielColores\Cliente App\Cliente App\bin\Debug\Cliente App.pdb
+C:\Users\color\source\repos\UzielColores\Cliente App\Cliente App\obj\Debug\Cliente App.csproj.AssemblyReference.cache
+C:\Users\color\source\repos\UzielColores\Cliente App\Cliente App\obj\Debug\Cliente_App.Form1.resources
+C:\Users\color\source\repos\UzielColores\Cliente App\Cliente App\obj\Debug\Cliente_App.Properties.Resources.resources
+C:\Users\color\source\repos\UzielColores\Cliente App\Cliente App\obj\Debug\Cliente App.csproj.GenerateResource.cache
+C:\Users\color\source\repos\UzielColores\Cliente App\Cliente App\obj\Debug\Cliente App.csproj.CoreCompileInputs.cache
+C:\Users\color\source\repos\UzielColores\Cliente App\Cliente App\obj\Debug\Cliente App.exe
+C:\Users\color\source\repos\UzielColores\Cliente App\Cliente App\obj\Debug\Cliente App.pdb
